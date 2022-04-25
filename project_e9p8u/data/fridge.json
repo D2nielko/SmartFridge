@@ -1,0 +1,22 @@
+{"fridgeItems": [
+    {
+        "name": "bananas",
+        "type": "fruit",
+        "expdate": "2021-12-04"
+    },
+    {
+        "name": "tomatoes",
+        "type": "fruit",
+        "expdate": "2021-12-20"
+    },
+    {
+        "name": "chicken",
+        "type": "meat",
+        "expdate": "2021-12-20"
+    },
+    {
+        "name": "bananas",
+        "type": "fruit",
+        "expdate": "2021-12-30"
+    }
+]}
